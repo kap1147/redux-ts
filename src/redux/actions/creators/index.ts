@@ -1,5 +1,5 @@
 import { searchRepositories } from "./repositories";
 
-export enum allActions {
+export const allActions = {
     searchRepositories
 }
